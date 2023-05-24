@@ -8,9 +8,11 @@ https://balihkognog.wixsite.com/techlinuxenthusiast
 or access my posts here:
 
 01 - Learning the ropes! Arch Linux Installation
+
 https://balihkognog.wixsite.com/techlinuxenthusiast/post/arch-linux-installation
 
 02 - Working lite. My Terminal User Interface (TUI) Experience!
+
 https://balihkognog.wixsite.com/techlinuxenthusiast/post/linux-command-line-interface-experience
 
 03 - Installing Gnome (Soon!)
